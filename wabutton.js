@@ -154,6 +154,6 @@ var _waEmbed = (i, o) => {
     (t = document.createElement("link")).setAttribute("rel", "stylesheet"),
     t.setAttribute("type", "text/css"),
     (t.onload = e),
-    t.setAttribute("href", "../wabutton.css"),
+    t.setAttribute("href", "https://trikom-infotech.github.io/whatsapp-button/wabutton.css"),
     document.head.appendChild(t);
 };
