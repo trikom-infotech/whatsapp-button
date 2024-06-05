@@ -87,7 +87,7 @@ var _waEmbed = (i, o) => {
         }">
           <div><img class="wa_widget-brand-image" src="${
             o.brandImage ||
-            "https://uploads-ssl.webflow.com/5f68a65cd5188c058e27c898/6204c4267b92625c9770f687_whatsapp-chat-widget-dummy-logo.png"
+            "https://trikom-infotech.github.io/whatsapp-button/wadummy.png"
           }"></div>
           <div class="wa_widget-brand-info">
             <h4 style="color: ${
